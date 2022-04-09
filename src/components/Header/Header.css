@@ -1,0 +1,14 @@
+.header-container {
+  font-size: 20px;
+  margin-top: 20px;
+  font-weight: 700;
+  font-family: monospace;
+}
+.header-container nav a {
+  text-decoration: none;
+  margin-right: 30px;
+}
+.header-container nav a:hover {
+  color: goldenrod;
+  letter-spacing: 3px;
+}
